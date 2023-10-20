@@ -10,6 +10,8 @@ header {
     height: 80px;
 }
 
+/* First Section */
+
 .container {
     width: 480px;
     margin: 0 auto;
@@ -22,7 +24,7 @@ header {
 }
 
 .col {
-    padding-top: 4rem;
+    padding-top: 3rem;
     padding-left: 1rem;
     padding-right: 1rem;
 }
@@ -42,5 +44,48 @@ header {
     background-color: rgb(181, 221, 254);
     height: 800px;
     width: 100%;
+    border-radius: 30px;
+}
+
+/* Second Section */
+
+.strategic {
+    background-color: rgb(151, 146, 226);
+    margin-top: 4rem;
+}
+
+.img {
+    background-color: white;
+    height: 600px;
+    border-radius: 30px;
+}
+
+.h1-p {
+    background-color: white;
+    height: 300px;
+    border-radius: 30px;
+}
+
+.app-developement {
+    background-color: white;
+    height: 600px;
+    border-radius: 30px;
+}
+
+/* Third Section */
+
+.testimonials {
+    background-color: white;
+}
+
+.commited-expert {
+    background-color: rgb(151, 146, 226);
+    height: 300px;
+    border-radius: 30px;
+}
+
+.partner {
+    background-color: rgb(151, 146, 226);
+    height: 500px;
     border-radius: 30px;
 }
