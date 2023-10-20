@@ -89,3 +89,70 @@ header {
     height: 500px;
     border-radius: 30px;
 }
+
+/* Fourth Section */
+
+.working-benefits {
+    background-color: rgb(151, 146, 226);
+}
+
+.working-title {
+    background-color: white;
+    height: 200px;
+    border-radius: 30px;
+}
+
+.working-p {
+    background-color: white;
+    height: 500px;
+    border-radius: 30px;
+}
+
+.bottom {
+    margin-bottom: 6rem;
+}
+
+/* Fifth Section */
+
+.abous-us {
+    background-color: white;
+}
+
+.title {
+    background-color: rgb(151, 146, 226);
+    height: 200px;
+    border-radius: 30px;
+}
+
+.p {
+    background-color: rgb(151, 146, 226);
+    height: 500px;
+    border-radius: 30px;
+}
+ 
+/* Sixth Section */
+
+.get-started {
+    background-color: rgb(151, 146, 226);
+}
+
+.start {
+    background-color: white;
+    height: 500px;
+}
+
+/* Seventh Section */
+
+.bg-black {
+    background-color: rgb(51, 51, 51);
+}
+
+.p-footer {
+    background-color: white;
+    height: 100px;
+}
+
+.p-lorem-footer {
+    background-color: white;
+    height: 60px;
+}
